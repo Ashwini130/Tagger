@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683702823623",
+    "firebase_url": "https://taggerv20.firebaseio.com",
+    "project_id": "taggerv20",
+    "storage_bucket": "taggerv20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683702823623:android:5a6c3f6b77185311",
+        "android_client_info": {
+          "package_name": "com.example.android.taggerv20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683702823623-us7vt6oaul8m4kbceeu6jls69bj9vbiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.taggerv20",
+            "certificate_hash": "f8527f611be51e92e1868d400440aa0d4c2ed17d"
+          }
+        },
+        {
+          "client_id": "683702823623-q7cc69aaejffvsscn8flhrdbtincdobf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpr5QLHSR2zggBNDEjiizb9YtxS87YAOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683702823623-q7cc69aaejffvsscn8flhrdbtincdobf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tagger</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">Welcome to Tagger</string>
+
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">Send</string>
+    <string name="author_name">Shashikant</string>
+    <string name="author_url">www.wthreeglobal.com</string>
+</resources>
